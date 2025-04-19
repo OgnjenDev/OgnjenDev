@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OgnjenDev
 - 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning c,cpp,java,c#,python
 - 📫 How to reach me ognjengaming52@gmail.com
 - ⚡ Fun fact: im only 11 years old
